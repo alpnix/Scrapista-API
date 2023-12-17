@@ -1,0 +1,4 @@
+scrapista==0.2.4
+fastapi
+gunicorn
+uvicorn
